@@ -189,7 +189,9 @@ section {
 .titulo-seccion h2 {
   font-size: 2rem;
 }
-
+summary{
+  cursor: pointer;
+}
 .titulo-seccion p {
   color: var(--gris);
 }
